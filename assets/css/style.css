@@ -46,6 +46,14 @@ body {
             margin-bottom: 7%;
             text-decoration: none;
             box-shadow: 1px 1px 1px 5px #c69146;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .icon-btn{
+            width: 10%;
+            padding: 0 2%;
         }
 
 @media screen and (min-width: 768px){
